@@ -15,7 +15,7 @@ You have to modify the plugin-file for changing your Google+-ID *(Placeholder: Y
 
 				<div class="g-plus" data-href="https://plus.google.com/YOUR_ID?rel=publisher" data-width="300" data-height="69" data-theme="light"></div>
 
-### pwikanalytics Instructions ###
+### piwikanalytics Instructions ###
 You have to modify the plugin-file for changing your PIWIK-Url *(Placeholder: PIWIK_URL)* and PIWIK-Side-ID *(Placeholder: PIWIKID)*.
 
 **NOTE**: There are three lines you have to change!
