@@ -5,7 +5,7 @@ Plugin URI: http://moortaube.de/
 Description: Adds Google+-Badge-Support to your blog
 Author: moortaube
 Version: 1.0
-Author URI: http://Blog.moortaube.de/
+Author URI: http://moortaube.de/
 */
 
 function plugin_googleplushelper_head() {
